@@ -1,0 +1,36 @@
+.contenedor-lenguaje{
+  max-width: 250px;
+  max-height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: white;
+  padding: 20px 10px 5px 10px;
+  border-radius: 10px;
+  margin: 10px;
+
+  -webkit-box-shadow: -7px -7px 55px 0px rgba(83, 131, 255, 0.75);
+  -moz-box-shadow: -7px -7px 55px 0px rgba(83, 131, 255, 0.75);
+  box-shadow: -7px -7px 55px 0px rgba(83, 131, 255, 0.75);
+}
+
+.imagen-lenguaje{
+  max-width: 150px;
+  width: 100%;
+}
+
+.contenedor-lenguaje h1{
+  font-size: 30px;
+  margin-top: 1.5vh;
+}
+
+.contenedor-lenguaje p{
+  font-size: 15px;
+}
+
+@media screen and (max-width:400px){
+  .imagen-lenguaje{
+    width: 10vh;
+  }
+}

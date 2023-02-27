@@ -1,0 +1,23 @@
+.section-proyecto{
+  margin: 5rem 0;
+}
+
+.card{
+  width: 25rem
+}
+
+.row-card{
+  width: 200px;
+}
+
+.img-producto{
+  margin: 10px 0px;
+}
+
+@media screen and (max-width:994px){
+  .card{
+    margin-top:100px
+  }
+}
+
+
