@@ -1,6 +1,6 @@
 <div id="Header" align="center">
    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200">
-   <h1 align="center"">Cv Nicolas Cuervo - En progreso</h1>
+   <h1 align="center">Cv Nicolas Cuervo - En progreso</h1>
 </div>
 
 ###  🧑 Sobre mi:
